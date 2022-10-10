@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME&skills=JavaScript,TypeScript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jongdo737&show-other-skills=true"
 />
