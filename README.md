@@ -9,5 +9,6 @@ JongDo737/JongDo737 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jongdo737
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME&skills=JavaScript,TypeScript&show-other-skills=true"
+/>
